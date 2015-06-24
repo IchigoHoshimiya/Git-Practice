@@ -1,5 +1,6 @@
  
 #include <stdio.h>
+#include "Ran.h"
  
 int main(void) {
   
@@ -9,6 +10,7 @@ int main(void) {
         printf("アイカツ！");
     }
   
+    self_intro_Ran();
     return 0;
 }
 
